@@ -1,0 +1,4 @@
+mysql.connector
+pyjwt
+pycrypto
+cryptography
